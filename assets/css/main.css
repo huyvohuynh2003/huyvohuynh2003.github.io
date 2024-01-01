@@ -2200,8 +2200,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			height: 20em;
-			border-radius: 0;
+			height: 100vh;
 		}
 
 			.image.main img {
@@ -2700,7 +2699,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: blue;
+		background: lightblue;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
